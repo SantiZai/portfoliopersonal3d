@@ -1,0 +1,6 @@
+{
+  "name": "Santiago Zaidan | 3D Tennis Stadium Portfolio",
+  "description": "Portfolio personal interactivo en 3D ambientado en un estadio de tenis profesional con Three.js, navegación cinematográfica por la cancha y trayectoria de pelota interactiva.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
